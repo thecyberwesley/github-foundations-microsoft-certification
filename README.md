@@ -1,4 +1,4 @@
-# GitHub Foundations Microsoft Certification
+# Microsoft · GitHub Foundations
 
 📘 Repository focused on practicing code versioning with Git and GitHub, following the guidelines of the GitHub Foundations course by Microsoft Learn.
 
